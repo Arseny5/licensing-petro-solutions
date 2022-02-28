@@ -1,4 +1,4 @@
-import subprocess, requests, time, os
+timport subprocess, requests, time, os
 from tkinter import *
 from tkinter import messagebox
 import uuid
